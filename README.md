@@ -19,3 +19,6 @@ If you're also learning web development, feel free to check it out, contribute, 
 🔗 Live Preview:  https://b1ackwand.github.io/cheat-sheet.github.io/
 
 ⭐ Star this repo if you find it helpful! 🚀
+
+
+<img width="600" alt="Screenshot 2025-02-21 at 19 07 47" src="https://github.com/user-attachments/assets/48a18504-7f89-4a74-b05a-3bca8c978fc6" />
