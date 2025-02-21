@@ -16,4 +16,6 @@ a simple and stylish reference to help me (and maybe others) navigate essential 
 I created this as a personal learning project to sharpen my skills while making something useful. 
 If you're also learning web development, feel free to check it out, contribute, or just say hi!
 
+🔗 Live Preview:  https://b1ackwand.github.io/cheat-sheet.github.io/
+
 ⭐ Star this repo if you find it helpful! 🚀
